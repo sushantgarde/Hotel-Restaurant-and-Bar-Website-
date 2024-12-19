@@ -49,4 +49,4 @@ If you have any feedback, please reach out to us at gardesushant1@gmail.com
 Feel free to fork this repository, improve it, and submit a pull request. Contributions are always welcome!
 
 ## License 📜
-This project is licensed under the **MIT License**.
+This project is licensed under the [MIT License](LICENSE).
